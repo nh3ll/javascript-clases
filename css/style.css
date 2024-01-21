@@ -1,0 +1,28 @@
+/* NORMALIZE */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+/* FIN DEL NORMALIZE */
+
+
+h1{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(15, 39, 92);
+}
